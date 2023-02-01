@@ -19,14 +19,47 @@ Login/Logout/SignUp using React JS(firebase)
 
 #  Firebase setup with your react project folder name
 
-> Step 1 => firebase Login with your account (firebase.google.com)
+> Step 1 => you can go to the browser (firebase.google.com)
 
-> Step 2 => Can you see at this page.
+> Step 2 => firebase Login with your account (firebase.google.com)
+
+> Step 3 => Can you see at this page.
 
 <div align="center">
   <img src="public/assets/fisrt.png" alt="text" title="first-photo" />
 </div>
 
+> Step 4 => And then, Can Creat step by step below photo
+
+
+<div align="center">
+  <img src="public/assets/firebase2.png" alt="text" title="first-photo" />
+</div>
+
+
+<div align="center">
+  <img src="public/assets/firebase3.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase4.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase5.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase6.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase7.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase8.png" alt="text" title="first-photo" />
+</div>
 
 
 
