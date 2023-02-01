@@ -85,6 +85,8 @@ Login/Logout/SignUp using React JS(firebase)
 
 > And then Project setting can see below the photo
 
+<br />
+
 <div align="center">
   <img src="public/assets/firebase17.png" alt="text" title="first-photo" />
 </div>
@@ -99,6 +101,26 @@ Login/Logout/SignUp using React JS(firebase)
 
 <div align="center">
   <img src="public/assets/firebase15.png" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/firebase19.png" alt="text" title="first-photo" />
+</div>
+
+> And then " Sign In Method " can see below the photo
+
+<div align="center">
+  <img src="public/assets/firebase20.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase11.png" alt="text" title="first-photo" />
+</div>
+
+<div align="center">
+  <img src="public/assets/firebase12.png" alt="text" title="first-photo" />
 </div>
 
 
