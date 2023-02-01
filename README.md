@@ -28,34 +28,48 @@ Login/Logout/SignUp using React JS(firebase)
 <div align="center">
   <img src="public/assets/fisrt.png" alt="text" title="first-photo" />
 </div>
-
+ 
+<br />
 > Step 4 => And then, Can Creat step by step below photo
 
+<br />
 
 <div align="center">
   <img src="public/assets/firebase2.png" alt="text" title="first-photo" />
 </div>
 
+<br />
 
 <div align="center">
   <img src="public/assets/firebase3.png" alt="text" title="first-photo" />
 </div>
 
+<br />
+
 <div align="center">
   <img src="public/assets/firebase4.png" alt="text" title="first-photo" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="public/assets/firebase5.png" alt="text" title="first-photo" />
 </div>
 
+<br />
+>
+
 <div align="center">
   <img src="public/assets/firebase6.png" alt="text" title="first-photo" />
 </div>
 
+<br />
+
 <div align="center">
   <img src="public/assets/firebase7.png" alt="text" title="first-photo" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="public/assets/firebase8.png" alt="text" title="first-photo" />
