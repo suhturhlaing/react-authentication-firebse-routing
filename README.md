@@ -111,10 +111,11 @@ Login/Logout/SignUp using React JS(firebase)
   <img src="public/assets/firebase19.png" alt="text" title="first-photo" />
 </div>
 
+<br />
 > And then " Sign In Method " can see below the photo
 
 <div align="center">
-  <img src="public/assets/firebase20.png" alt="text" style="width : 500px; height : 500px;" title="first-photo" />
+  <img src="public/assets/firebase20.png" alt="text" style="width : 800px; height : 500px;" title="first-photo" />
 </div>
 
 <br />
