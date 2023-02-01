@@ -6,12 +6,12 @@ Login/Logout/SignUp using React JS(firebase)
 ### :writing_hand:
 
 
-> A React.js project
+> A React.js project <br />
 > Step 1 => Firstly, Clone this project from the respository
 
-Step 2 => npm install
+> Step 2 => npm install
 
-Step 3 => npm start (or) yarn start
+> Step 3 => npm start (or) yarn start
 
 
 
