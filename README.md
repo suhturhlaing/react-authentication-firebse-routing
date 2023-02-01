@@ -24,7 +24,7 @@ Login/Logout/SignUp using React JS(firebase)
 > Step 2 => Can you see at this page.
 
 <div align="center">
-  <img src="../../public/assets/first.png" alt="text" title="first-photo" />
+  <img src="public/assets/fisrt.png" alt="text" title="first-photo" />
 </div>
 
 
