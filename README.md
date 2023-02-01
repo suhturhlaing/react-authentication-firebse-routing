@@ -34,7 +34,6 @@ Login/Logout/SignUp using React JS(firebase)
 > Step 4 => And then, Can Creat step by step below photo
 
 <br />
-<br />
 <div align="center">
   <img src="public/assets/firebase2.png" alt="text" title="first-photo" />
 </div>
