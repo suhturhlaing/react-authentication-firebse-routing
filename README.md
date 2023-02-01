@@ -1,3 +1,32 @@
+# react-authentication-firebase-routing
+Login/Logout/SignUp using React JS(firebase)
+
+---
+
+### :writing_hand:
+
+
+> A React.js project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
