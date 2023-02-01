@@ -81,11 +81,20 @@ Login/Logout/SignUp using React JS(firebase)
   <img src="public/assets/firebase9.png" alt="text" title="first-photo" />
 </div>
 
-> You can see -> Your firebase SDK below the photo
+<br />
+> And then Project setting can see below the photo
 
 <div align="center">
-  <img src="public/assets/firebase15.png" alt="text" title="first-photo" />
+  <img src="public/assets/firebase17.png" alt="text" title="first-photo" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/firebase18.png" alt="text" title="first-photo" />
+</div>
+
+
 
 
 
