@@ -105,6 +105,8 @@ Login/Logout/SignUp using React JS(firebase)
 
 <br />
 
+> And then Scroll down , can see Web App Structure
+
 <div align="center">
   <img src="public/assets/firebase19.png" alt="text" title="first-photo" />
 </div>
@@ -112,12 +114,16 @@ Login/Logout/SignUp using React JS(firebase)
 > And then " Sign In Method " can see below the photo
 
 <div align="center">
-  <img src="public/assets/firebase20.png" alt="text" title="first-photo" />
+  <img src="public/assets/firebase20.png" alt="text" style="width : 500px; height : 500px;" title="first-photo" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="public/assets/firebase11.png" alt="text" title="first-photo" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="public/assets/firebase12.png" alt="text" title="first-photo" />
