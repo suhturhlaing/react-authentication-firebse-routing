@@ -1,3 +1,51 @@
+# react-authentication-firebase-routing
+Login/Logout/SignUp using React JS(firebase)
+
+---
+
+### :writing_hand:
+
+
+> A React.js project 
+
+# Getting Started with Clone Project
+> Step 1 => Firstly, Clone this project from the respository
+
+> Step 2 => npm install
+
+> Step 3 => npm start (or) yarn start
+
+> This project using thirparty firebase authentication . So, You will create your project at firebase.
+
+#  Firebase setup with your react project folder name
+
+> Step 1 => firebase Login with your account (firebase.google.com)
+
+> Step 2 => Can you see at this page.
+
+<div align="center">
+  <img src="../../public/assets/first.png" alt="text" title="first-photo" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
