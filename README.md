@@ -15,6 +15,18 @@ Login/Logout/SignUp using React JS(firebase)
 
 > Step 3 => npm start (or) yarn start
 
+> This project using thirparty firebase authentication . So, You will create your project at firebase.
+
+#  Firebase setup with your react project folder name
+
+> Step 1 => firebase Login with your account (firebase.google.com)
+
+> Step 2 => Can you see at this page.
+
+<div align="center">
+  <img src="/assets/first.png" alt="text" title="first-photo" />
+</div>
+
 
 
 
