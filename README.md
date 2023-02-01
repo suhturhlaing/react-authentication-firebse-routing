@@ -117,7 +117,7 @@ Login/Logout/SignUp using React JS(firebase)
 
 <br />
 <div align="center">
-  <img src="public/assets/firebase20.png" alt="text" style="width : 1000px; height : 700px;" title="first-photo" />
+  <img src="public/assets/firebase20.png" alt="text" style="width : 800px; height : 550px;" title="first-photo" />
 </div>
 
 <br />
@@ -130,6 +130,18 @@ Login/Logout/SignUp using React JS(firebase)
 
 <div align="center">
   <img src="public/assets/firebase12.png" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/firebase13.png" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/firebase14.png" alt="text" title="first-photo" />
 </div>
 
 
