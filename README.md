@@ -156,7 +156,7 @@ Login/Logout/SignUp using React JS(firebase)
 
 <br />
 
-# And then You need to create " .env" file at your project folder Virtual Studio code.
+# And then You need to create " .env" file at your project folder Virsual Studio code.
 
 > you create .env file at project root file location
 
@@ -176,7 +176,40 @@ Login/Logout/SignUp using React JS(firebase)
   <img src="public/assets/vs1.jpg" alt="text" title="first-photo" />
 </div>
 
+<br />
 
+# And then You need your project run against.
+
+<br />
+
+> npm start  (terminal run your project folder location)
+
+<br />
+
+> you can seee below page
+
+<br />
+
+<div align="center">
+  <img src="public/assets/login.jpg" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/signup.jpg" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="public/assets/forgotpassword.jpg" alt="text" title="first-photo" />
+</div>
+
+
+<br />
+
+<br />
 
 
 
