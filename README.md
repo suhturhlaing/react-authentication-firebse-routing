@@ -154,6 +154,28 @@ Login/Logout/SignUp using React JS(firebase)
   <img src="public/assets/firebase14.png" alt="text" title="first-photo" />
 </div>
 
+<br />
+
+# And then You need to create " .env" file at your project folder Virtual Studio code.
+
+> you create .env file at project root file location
+
+<br />
+
+<div align="center">
+  <img src="public/assets/vs.jpg" alt="text" title="first-photo" />
+</div>
+
+<br />
+
+> And then, your env file additional below code copy -> but your firebase SDK code add instead of XXXXXX
+
+<br />
+
+<div align="center">
+  <img src="public/assets/vs1.jpg" alt="text" title="first-photo" />
+</div>
+
 
 
 
